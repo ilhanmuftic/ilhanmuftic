@@ -72,7 +72,17 @@ IoT/AI-powered healthcare solution for Bosnia that won first place on MedRecon H
 - Integration with official FBiH cards
 - New innovative RFID cards
 
+### **🌍 GeoGuessr Bosnia (EcoTravel)**
+[![View Project](https://img.shields.io/badge/-View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ilhanmuftic/EcoTravel)
 
+Sustainable travel platform with GeoGuessrBosnia game featuring:
+- Dockerized full-stack architecture
+- Google Street View integration
+- Real-time scoring system
+- PostgreSQL database management
+- Nginx reverse proxy deployment
+- Complete REST API documentation
+  
 ---
 
 </div>
