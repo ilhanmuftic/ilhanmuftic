@@ -1,6 +1,6 @@
 # Hi there, I'm Ilhan Muftić 👋
 
-**Full-Stack Developer | AI & IoT Specialist | Hackathon Champion**
+**Full-Stack Developer**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ilhan-dev.netlify.app/)
 [![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ilhanmuftic@gmail.com)
