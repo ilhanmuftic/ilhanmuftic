@@ -3,8 +3,8 @@
 **Full-Stack Developer | AI & IoT Specialist | Hackathon Champion**
 
 [![Portfolio](https://img.shields.io/badge/-Portfolio-8A2BE2?style=for-the-badge&logo=Google-Chrome&logoColor=white)](https://ilhan-dev.netlify.app/)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ilhammuffic@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](your-linkedin-link)
+[![Email](https://img.shields.io/badge/-Email-EA4335?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:ilhanmuftic@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/ilhan-mufti%C4%87-b7070426a/)
 [![Phone](https://img.shields.io/badge/-Phone-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](tel:+38761700933)
 
 ---
@@ -41,6 +41,7 @@ Experienced Full-Stack Developer with expertise in web/mobile development, AI sy
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Flask](https://img.shields.io/badge/-Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 ### **Mobile & IoT**
@@ -55,3 +56,36 @@ Experienced Full-Stack Developer with expertise in web/mobile development, AI sy
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
 ![SCRUM](https://img.shields.io/badge/-SCRUM-6DB33F?style=for-the-badge&logo=scrumalliance&logoColor=white)
+
+## 🚀 Featured Projects
+
+<div>
+
+### **🏥 Health Management System**
+[![View Project](https://img.shields.io/badge/-View_Project-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanisJa/HealthAccessAI)
+
+IoT/AI-powered healthcare solution for Bosnia that won first place on MedRecon Hackathon featuring:
+- Real-time patient monitoring with IoT devices
+- AI-driven diagnostics
+- Secure medical data management
+- Cross-platform accessibility
+- Integration with official FBiH cards
+- New innovative RFID cards
+
+
+---
+
+</div>
+
+## 🤝 Let's Collaborate!
+
+I'm always open to interesting projects and discussions. Here's how we can connect:
+
+### **💼 Professional Inquiries**
+[![Email](https://img.shields.io/badge/-Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ilhanmuftic@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ilhan-mufti%C4%87-b7070426a/)
+
+### **📞 Direct Contact**
+[![WhatsApp](https://img.shields.io/badge/-WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/38761700933)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/ilhanmuftic)
+
